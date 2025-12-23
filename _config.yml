@@ -1,0 +1,11 @@
+title: Minería de Datos
+description: Apuntes de clase y recursos para una serie de videos introductorios sobre Minería de Datos
+author: Julio López Núñez
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
