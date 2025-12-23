@@ -21,7 +21,7 @@ Este proyecto tiene como objetivos:
 
 ---
 
-## 📚 Apuntes de clase
+## 📚 Apuntes
 
 Los apuntes constituyen el **núcleo del proyecto**.  
 Están escritos en **Markdown**, lo que permite:
@@ -39,6 +39,18 @@ Los contenidos abordan progresivamente temas como:
 - Descenso de gradiente  
 - Redes neuronales y fundamentos de Deep Learning  
 
+## 📘 Apuntes de la serie
+
+- [01. Introducción y motivación](apuntes/01%20Introducción%20y%20motivación.md)
+- [02. Visualización y tipos de datos](apuntes/02%20Visualización%20y%20tipos%20de%20datos.md)
+- [03. Preprocesamiento y calidad de datos](apuntes/03%20Preprocesamiento%20y%20calidad%20de%20datos.md)
+- [04. Métodos de clasificación](apuntes/04%20Métodos%20de%20clasificación.md)
+- [05. Evaluación de modelos](apuntes/05%20Evaluación%20de%20modelos.md)
+- [06. Descenso de gradiente](apuntes/06%20Descenso%20de%20gradiente.md)
+- [07. Redes neuronales: ideas fundamentales](apuntes/07%20Redes%20neuronales%20ideas%20fundamentales.md)
+- [08. Deep Learning: CNN y Transformers](apuntes/08%20Deep%20Learning%20CNN%20y%20Transformers.md)
+- [09. Arquitecturas de Deep Learning](apuntes/09%20Arquitecturas%20Deep%20Learning.md)
+
 ---
 
 ## 🎥 Serie de videos
@@ -47,7 +59,7 @@ Los videos asociados a este proyecto tienen un enfoque **introductorio y pedagó
 Su objetivo es **explicar y contextualizar** los contenidos de los apuntes, no reemplazarlos.
 
 👉 **Lista de reproducción en YouTube:**  
-*(enlace a incorporar una vez publicada)*
+[*(Ver Lista de Reproducción)*](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9DCowe-5CIWmYlngJLLOw8)
 
 > Nota: los videos están pensados como una puerta de entrada.  
 > La profundidad conceptual se encuentra en los apuntes escritos.
