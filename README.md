@@ -38,7 +38,7 @@ Los documentos están escritos en **Markdown**, lo que permite su lectura direct
 La serie de videos asociada a este repositorio tiene un enfoque **introductorio y explicativo**, pensada como puerta de entrada a los contenidos.
 
 👉 **Lista de reproducción:**  
-*(enlace a la playlist – se incorporará una vez publicada)*
+[*(Ver playlist)*](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9DCowe-5CIWmYlngJLLOw8)
 
 > ℹ️ Nota: los videos **no reemplazan** los apuntes.  
 > Su objetivo es contextualizar y explicar los conceptos de forma accesible.
