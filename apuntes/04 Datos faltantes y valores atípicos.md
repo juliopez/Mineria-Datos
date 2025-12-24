@@ -6,6 +6,8 @@ tipo: Apuntes introductorios
 nivel: Introductorio
 ---
 
+### Datos faltantes y valores atípicos
+
 El manejo de datos faltantes y atípicos (outliers) es una parte fundamental de la **limpieza de datos**, una etapa que consume aproximadamente el **80% del tiempo** en proyectos de minería de datos. No existe una única solución "correcta", ya que la efectividad depende del contexto del problema y del dominio de los datos.
 
 A continuación, se detallan las estrategias más efectivas según el tipo de problema:
