@@ -44,12 +44,15 @@ Los contenidos abordan progresivamente temas como:
 - [01. Introducción y motivación](apuntes/01%20Introducción%20y%20motivación.html)
 - [02. Visualización y tipos de datos](apuntes/02%20Visualización%20y%20tipos%20de%20datos.html)
 - [03. Preprocesamiento y calidad de datos](apuntes/03%20Preprocesamiento%20y%20calidad%20de%20datos.html)
-- [04. Métodos de clasificación](apuntes/04%20Métodos%20de%20clasificación.html)
-- [05. Evaluación de modelos](apuntes/05%20Evaluación%20de%20modelos.html)
-- [06. Descenso de gradiente](apuntes/06%20Descenso%20de%20gradiente.html)
-- [07. Redes neuronales: ideas fundamentales](apuntes/07%20Redes%20neuronales%20ideas%20fundamentales.html)
-- [08. Deep Learning: CNN y Transformers](apuntes/08%20Deep%20Learning%20CNN%20y%20Transformers.html)
-- [09. Arquitecturas de Deep Learning](apuntes/09%20Arquitecturas%20Deep%20Learning.html)
+- [04. Datos faltantes y valores atípicos](apuntes/04%20Datos%20faltantes%20y%20valores%20atípicos.html)
+- [05. Normalización vs estandarización](apuntes/05%20Normalización%20vs%20estandarización.html)
+- [06. Métodos de clasificación](apuntes/06%20Métodos%20de%20clasificación.html)
+- [07. Evaluación de modelos](apuntes/07%20Evaluación%20de%20modelos.html)
+- [08. Descenso de gradiente](apuntes/08%20Descenso%20de%20gradiente.html)
+- [09. Redes neuronales: ideas fundamentales](apuntes/09%20Redes%20neuronales%20ideas%20fundamentales.html)
+- [10. Deep Learning: CNN y Transformers](apuntes/10%20Deep%20Learning%20CNN%20y%20Transformers.html)
+- [11. Pipelines en Minería de Datos y Deep Learning](apuntes/11%20Pipelines%20en%20Minería%20de%20Datos%20y%20Deep%20Learning.html)
+- [12. Arquitecturas de Deep Learning](apuntes/12%20Arquitecturas%20Deep%20Learning.html)
 
 ---
 
