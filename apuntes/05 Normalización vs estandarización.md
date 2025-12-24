@@ -6,6 +6,8 @@ tipo: Apuntes introductorios
 nivel: Introductorio
 ---
 
+### Normalización vs estandarización
+
 La **normalización** y la **estandarización** son procesos críticos de transformación de datos que aseguran que las diferentes características de un conjunto de datos sean comparables entre sí, evitando que atributos con escalas grandes dominen injustamente el modelo.
 
 ### Normalización
