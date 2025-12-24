@@ -5,6 +5,7 @@ playlist: https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9DCowe-5CIWmYlngJLLO
 tipo: Apuntes introductorios
 nivel: Introductorio
 ---
+### Pipelines en Minería de Datos y Deep Learning
 
 Es posible describir tres tipos de **pipelines** o flujos de trabajo relacionados con el procesamiento de datos y el entrenamiento de modelos:
 
