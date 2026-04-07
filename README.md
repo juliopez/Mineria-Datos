@@ -1,8 +1,16 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19462925.svg)](https://doi.org/10.5281/zenodo.19462925)
+![License](https://img.shields.io/badge/license-CC--BY%204.0-lightgrey)
+![Status](https://img.shields.io/badge/status-active%20development-green)
+
 # 📊 Minería de Datos – Apuntes y Recursos
 
 Este repositorio contiene **apuntes de clase en formato Markdown** y **recursos de apoyo** asociados a una **serie de videos introductorios sobre Minería de Datos**, orientados a estudiantes, docentes y profesionales que se inician en el área.
 
 Los videos funcionan como una **introducción guiada y accesible**, mientras que los apuntes escritos concentran el **desarrollo conceptual y técnico** de los contenidos.
+
+## 📖 Cómo citar
+
+López Núñez, J. (2026). *Minería de Datos – Apuntes y Recursos*. Zenodo. https://doi.org/10.5281/zenodo.19462925
 
 ---
 
