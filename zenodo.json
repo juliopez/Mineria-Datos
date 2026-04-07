@@ -1,0 +1,17 @@
+{
+  "title": "Minería de Datos – Apuntes y Recursos",
+  "creators": [
+    {
+      "name": "López Núñez, Julio"
+    }
+  ],
+  "description": "Repositorio académico con apuntes y recursos para el aprendizaje de minería de datos.",
+  "keywords": [
+    "Data Mining",
+    "Machine Learning",
+    "Data Science",
+    "Education"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset"
+}
