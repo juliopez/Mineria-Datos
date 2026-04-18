@@ -1,0 +1,13 @@
+variable,tipo,subtipo,descripcion,valores_posibles,observaciones
+id_estudiante,identificador,entero,Identificador unico del estudiante,valores unicos,clave primaria
+edad,numerico,entero,Edad del estudiante,17-40,revisar outliers
+genero,categorico,nominal,Genero del estudiante,Masculino/Femenino,posibles inconsistencias
+tipo_colegio,categorico,nominal,Tipo de colegio de egreso,Municipal/Subvencionado/Particular,influye en desempeño
+promedio_notas,numerico,continuo,Promedio de notas enseñanza media,4.0-7.0,escala chilena
+puntaje_ingreso,numerico,entero,Puntaje de ingreso,400-850,prueba estandarizada
+asistencia,numerico,continuo,Porcentaje de asistencia,0-100,validar rango
+creditos_aprobados,numerico,entero,Creditos aprobados,0-60,variable clave
+nivel_socioeconomico,categorico,ordinal,Nivel socioeconomico,Bajo/Medio/Alto,orden implicito
+trabaja,categorico,binario,Trabaja mientras estudia,Si/No,impacto en rendimiento
+distancia_universidad,numerico,continuo,Distancia a universidad (km),0-50,aproximado
+estado_final,categorico,nominal,Estado academico,Activo/Desertor/Titulado,variable objetivo
