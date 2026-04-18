@@ -2,19 +2,19 @@
 ![License](https://img.shields.io/badge/license-CC--BY%204.0-lightgrey)
 ![Status](https://img.shields.io/badge/status-active%20development-green)
 
-# 📊 Minería de Datos – Apuntes y Recursos
+# Minería de Datos – Apuntes y Recursos
 
 Este repositorio contiene **apuntes de clase en formato Markdown** y **recursos de apoyo** asociados a una **serie de videos introductorios sobre Minería de Datos**, orientados a estudiantes, docentes y profesionales que se inician en el área.
 
 Los videos funcionan como una **introducción guiada y accesible**, mientras que los apuntes escritos concentran el **desarrollo conceptual y técnico** de los contenidos.
 
-## 📖 Cómo citar
+## Cómo citar
 
 López Núñez, J. (2026). *Minería de Datos – Apuntes y Recursos*. Zenodo. https://doi.org/10.5281/zenodo.19462925
 
 ---
 
-## 🎯 Objetivo del repositorio
+## Objetivo del repositorio
 
 - Centralizar apuntes de clase sobre Minería de Datos
 - Acompañar una serie de videos introductorios publicados en YouTube
@@ -23,7 +23,7 @@ López Núñez, J. (2026). *Minería de Datos – Apuntes y Recursos*. Zenodo. h
 
 ---
 
-## 📚 Contenidos
+## Contenidos
 
 Los apuntes abordan, entre otros, los siguientes temas:
 
@@ -41,20 +41,20 @@ Los documentos están escritos en **Markdown**, lo que permite su lectura direct
 
 ---
 
-## 🎥 Serie de videos (YouTube)
+## Serie de videos (YouTube)
 
 La serie de videos asociada a este repositorio tiene un enfoque **introductorio y explicativo**, pensada como puerta de entrada a los contenidos.
 
-👉 **Lista de reproducción:**  
+**Lista de reproducción:**  
 [*(Ver playlist)*](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9DCowe-5CIWmYlngJLLOw8)
 
-> ℹ️ Nota: los videos **no reemplazan** los apuntes.  
+> Nota: los videos **no reemplazan** los apuntes.  
 > Su objetivo es contextualizar y explicar los conceptos de forma accesible.
 
 
 ---
 
-## 🧑‍🏫 Público objetivo
+## Público objetivo
 
 - Estudiantes universitarios
 - Docentes del área de datos / informática
@@ -65,7 +65,7 @@ No se asume experiencia previa avanzada en programación o matemáticas.
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este repositorio se distribuye bajo la licencia  
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
@@ -74,18 +74,18 @@ Puedes reutilizar, adaptar y compartir el material, siempre que se indique la au
 
 ---
 
-## ✍️ Autor
+## Autor
 
 **Julio López Núñez**  
 Doctor en Política y Gestión Educacional  
 Ingeniero en Computación e Informática  
 
-📌 GitHub: https://github.com/juliopez  
-📌 Google Scholar: https://scholar.google.com/citations?user=KFblu1EAAAAJ&hl=es  
+GitHub: https://github.com/juliopez  
+Google Scholar: https://scholar.google.com/citations?user=KFblu1EAAAAJ&hl=es  
 
 ---
 
-## 📌 Nota final
+## Nota final
 
 Este repositorio forma parte de un proyecto educativo abierto y en desarrollo.  
 Los contenidos pueden actualizarse progresivamente a medida que avanza la serie de videos y los apuntes de clase.
