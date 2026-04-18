@@ -31,12 +31,13 @@ Dataset con información académica y demográfica de estudiantes, utilizado par
 
 El dataset puede incluir variables como:
 
+- Id
 - Edad  
-- Género  
 - Promedio de notas  
 - Asistencia  
-- Tipo de establecimiento de egreso  
-- Estado académico  
+- Tipo igreso  
+- Carrera
+- Estado final  
 
 ---
 
