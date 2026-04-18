@@ -1,0 +1,11 @@
+variable,tipo_dato,subtipo_nivel,descripcion,valores_esperados_rango,observaciones
+id_cliente,numerico,entero_identificador,Identificador unico del cliente,valores enteros unicos,puede presentar registros duplicados intencionales
+edad,numerico,entero_razon,Edad del cliente,18 a 75 aprox,puede contener valores nulos o fuera de rango
+region,categorico,nominal,Region de residencia o referencia del cliente,Norte Centro Sur,util para segmentacion geografica
+frecuencia_compra,numerico,entero_razon,Numero de compras realizadas por el cliente en el periodo analizado,0 o mas,puede contener valores fuera de rango o inconsistentes
+monto_total,numerico,continuo_razon,Monto total gastado por el cliente en el periodo,valores positivos,puede incluir valores negativos intencionales
+ticket_promedio,numerico,continuo_razon,Promedio de gasto por compra del cliente,valores positivos,puede contener nulos o inconsistencias respecto a monto_total y frecuencia_compra
+canal_preferido,categorico,nominal,Canal de compra preferido del cliente,Tienda Online,puede incluir inconsistencias de escritura
+categoria_frecuente,categorico,nominal,Categoria de productos mas comprada por el cliente,Tecnologia Vestuario Hogar Deportes,variable util para identificar patrones de consumo
+uso_descuentos,categorico,ordinal,Nivel de uso de descuentos por parte del cliente,Alto Medio Bajo,puede apoyar segmentacion segun sensibilidad al precio
+devoluciones,numerico,entero_razon,Numero de devoluciones realizadas por el cliente,0 o mas,puede contener valores negativos intencionales
