@@ -9,12 +9,17 @@ Este directorio contiene los conjuntos de datos utilizados en las actividades pr
 **Descripción:**  
 Dataset con información académica y demográfica de estudiantes, utilizado para analizar factores asociados a la deserción en el primer año.
 
+## Dataset: Clientes Retail
+
+**Descripción:**  
+*clientes_retail_omnicanal.csv* es un dataset simulado de clientes de retail omnicanal  
+*data_dictionary_clientes_retail_omnicanal.md / .csv*: documentación de variables y reglas básicas de interpretación
+
 ---
 
 ## Uso en el curso
 
-- Actividad práctica Semana 2  
-- Análisis exploratorio de datos (EDA)
+- Actividades prácticas y Proyecto Integrador
 
 ---
 
@@ -24,20 +29,6 @@ Dataset con información académica y demográfica de estudiantes, utilizado par
 - Puede contener valores faltantes, duplicados o inconsistencias  
 - Los datos pueden ser simulados o anonimizados  
 - No representa información real de estudiantes  
-
----
-
-## Variables (referenciales)
-
-El dataset puede incluir variables como:
-
-- Id
-- Edad  
-- Promedio de notas  
-- Asistencia  
-- Tipo igreso  
-- Carrera
-- Estado final  
 
 ---
 
