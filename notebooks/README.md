@@ -20,6 +20,18 @@ Actividad centrada en la exploración de un dataset de deserción estudiantil, c
 Abrir en Google Colab:  
 https://colab.research.google.com/github/juliopez/Mineria-Datos/blob/main/notebooks/actividad_semana2_eda_desercion.ipynb
 
+### Semana 3 – Limpieza de datos
+
+Actividad centrada en la limpieza de un dataset asociado a ventas omnicanal, considerando:
+
+- Valores nulos
+- Duplicados
+- Inconsistencias
+- Valores fuera de rango
+
+Abrir en Google Colab:  
+https://colab.research.google.com/github/juliopez/Mineria-Datos/blob/main/notebooks/notebook_video_limpieza_datos_semana3.ipynb
+
 ---
 
 ## Instrucciones generales
