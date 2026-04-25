@@ -15,6 +15,12 @@ Dataset con información académica y demográfica de estudiantes, utilizado par
 *clientes_retail_omnicanal.csv* es un dataset simulado de clientes de retail omnicanal  
 *data_dictionary_clientes_retail_omnicanal.md / .csv*: documentación de variables y reglas básicas de interpretación
 
+## Dataset: Clientes Retail Video
+
+**Descripción:**  
+*clientes_retail_video_limpieza.csv* es un dataset simulado de clientes de retail omnicanal (reducido) para ejercicios de limpieza de datos. 
+*data_dictionary_clientes_retail_omnicanal.md / .csv*: documentación de variables y reglas básicas de interpretación
+
 ---
 
 ## Uso en el curso
