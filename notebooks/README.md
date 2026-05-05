@@ -32,6 +32,17 @@ Actividad centrada en la limpieza de un dataset asociado a ventas omnicanal, con
 Abrir en Google Colab:  
 https://colab.research.google.com/github/juliopez/Mineria-Datos/blob/main/notebooks/notebook_video_limpieza_datos_semana3.ipynb
 
+### Semana 3 - Proyecto Integrador- Avance 1
+
+Actividad centrada en el desarrollo inicial del poryecto integrador del curso.
+Esta actividad se debe desarrollar con el Dataset `Clientes Retail Omnicanal.csv` disponible en:
+
+https://raw.githubusercontent.com/juliopez/Mineria-Datos/refs/heads/main/datasets/clientes_retail_omnicanal.csv
+
+Abrir en Google Colab:
+
+https://colab.research.google.com/github/juliopez/Mineria-Datos/blob/main/notebooks/Proyecto_Integrador-Avance_1.ipynb
+
 ---
 
 ## Instrucciones generales
