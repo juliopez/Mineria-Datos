@@ -1,8 +1,0 @@
-variable,tipo_dato,nivel_subtipo,descripcion,valores_esperados_rango,observaciones
-id_estudiante,numerico,entero_identificador,Identificador del estudiante,valores enteros unicos,puede presentar duplicados intencionales
-edad,numerico,entero,Edad del estudiante,17 a 30 aprox,pueden existir valores atipicos
-asistencia,numerico,continuo,Porcentaje de asistencia del estudiante,0 a 100,puede contener nulos o valores fuera de rango
-promedio_notas,numerico,continuo,Promedio de notas del estudiante,1.0 a 7.0,puede incluir inconsistencias de escala
-tipo_ingreso,categorico,nominal,Via de ingreso del estudiante,Regular PACE Traslado,variable util para segmentacion
-carrera,categorico,nominal,Carrera o area de formacion del estudiante,Ingenieria Educacion Salud,permite comparaciones entre grupos
-estado_final,categorico,nominal,Situacion final del estudiante,Continua Deserto,variable objetivo del analisis
