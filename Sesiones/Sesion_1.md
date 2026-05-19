@@ -1,13 +1,12 @@
 ## 1. La minería de datos no trata solo de algoritmos; trata de transformar datos en decisiones.”
 
-
-![[Imagen 1.png]]
+<img src="Imagen_1.png" width="800">
 
 ---
 
 ## 2. ¿Qué significa minería de datos?
 
-![[Imagen 2.png]]
+<img src="Imagen_2.png" width="800">
 
 | BI       | Analítica    | Minería de datos |
 | -------- | ------------ | ---------------- |
@@ -18,20 +17,20 @@
 ## 3. Ciclo en minería de datos
 
 
-![[Imagen 3.png]]
+<img src="Imagen_3.png" width="800">
 
 ---
 
 ## 4. Entornos de trabajo
 
-![[Imagen 4.png]]
+<img src="Imagen_4.png" width="800">
 
 ---
 
 ## 5.  Minería de Datos en el presente (2026)
 
 
-![[Imagen 5.png]]
+<img src="Imagen_5.png" width="800">
 
 ---
 
