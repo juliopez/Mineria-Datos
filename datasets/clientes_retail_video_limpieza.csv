@@ -1,0 +1,16 @@
+id_cliente,edad,frecuencia_compra,monto_total,canal_preferido,categoria_frecuente
+1001,44.0,9,234668.0,Online,Tecnología
+1002,36.0,13,293824.0,online,Hogar
+1003,,3,327931.0,Tienda,Vestuario
+1004,56.0,5,394157.0,ONLINE,Tecnología
+1005,35.0,10,310130.0,Tienda,Vestuario
+1006,150.0,15,388110.0,Tienda,Vestuario
+1007,,7,329026.0,tienda,Tecnología
+1008,47.0,13,,Tienda,Deportes
+1009,-5.0,7,188493.0,Online,Deportes
+1010,45.0,7,299828.0,Tienda,Hogar
+1011,32.0,11,150643.0,OnLine,Vestuario
+1012,32.0,-2,403990.0,Tienda,Vestuario
+1013,41.0,3,534305.0,Tienda,Hogar
+1014,18.0,10,490627.0,Tienda,Vestuario
+1005,35.0,10,310130.0,Tienda,Vestuario
